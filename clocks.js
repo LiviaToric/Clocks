@@ -16,7 +16,6 @@ function draw() {
   
 
 	fill(244, 9, 71, 150);
-	arc(width/2, height/2, 8*x, 8*x, PI/3, second()/30*PI+PI/3);
-  	arc(3*width/2, height/2, 8*x, 8*x, PI/3, PI/3);
+	arc(width/2, height/2, 8*x, 8*x, 0, 360);
     
 }
