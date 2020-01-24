@@ -17,7 +17,5 @@ function draw() {
 
 	fill(244, 9, 71, 150);
 	arc(width/2, height/2, 8*x, 8*x, PI/3, second()/30*PI+PI/3);
-  
-    print(minute());
     
 }
