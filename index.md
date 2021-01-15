@@ -6,7 +6,7 @@
     <title>clocks.js </title>
     <style> body {padding: 0; margin: 0;} </style>
     <script src="clocks.js"></script>
-    <script src="5p.js"></script>
+    <script src="p5.js"></script>
   </head>
   <body>
   </body>
